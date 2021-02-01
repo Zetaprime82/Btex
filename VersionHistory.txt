@@ -1,0 +1,152 @@
+*********************
+* Version History : *
+*********************
+
+v9.0  31 January 2021
+ - Updated for Shadowlands (thanks to Zetaprime82)
+
+v8.0  3 August 2018
+ - Updated for Battle For Azeroth 8.0
+
+v7.1  5 November 2016
+ - Updated for Legion 7.1
+
+v7.0.3  21 July 2016
+ - Updated for Legion 7.0.3
+
+v6.2.0 3 January 2016
+ - Updated for Warlords of Draenor 6.2.0
+
+v6.1.0 2 Mars 2015
+ - Updated for Warlords of Draenor 6.1.0
+
+v6.0.3 14 November 2014
+ - Updated for Warlords of Draenor 6.0.3
+
+v6.0.2 15 October 2014
+ - Updated for Warlords of Draenor
+
+v6.0 10 August 2014
+ - Updated beta for Warlords of Draenor
+
+v5.4 17 September 2013
+ - Updated version number to reflect the version of WoW
+ - Updated to Patch 5.4
+
+v3.5 7 August 2013
+ - Updated toc to 5.3
+
+v3.4 12 March 2013
+ - Updated toc to 5.2
+
+v3.3 28 December 2012
+ - Updated toc to 5.1
+ - Small bug fixes
+
+v3.2 1 September 2012
+ - Updated toc to 5.0.4
+ - Fixed some small code issues
+
+V3.1 19 December 2011
+ - Updated TOC to 4.3
+ - Installed the old graphic again pr. request, will link to all the new graphic on the main site.
+
+V3.0 27 September 2011
+ - Fixed a memory usage (It was using almost 1Mb on mine)
+ - Updated toc to 4.2
+ - Updated to version 3
+
+V2.9.4 6 March 2011
+- Fixed bug caused by Cataclysm's (4.0.1) removal of global variable this
+
+V2.9.3 6 February 2010
+- Modified function with X and Y placement for main frame. You can now set negative value.
+
+V2.9.2 10 Decemeber 2009
+- Updated TOC for Wow 30300,
+- Fixed bug with saving variable in viewport mode.
+
+V2.9.1 27 August 2009 
+- Fixed Chat Window layer(strata) when changing the strata of arts.
+- Added skin Demonic (cause its no more aviable to download on curse :s)
+
+V2.9.0 21 August 2009 - **this is a major release before V3.0**
+- Added support for position (move main texture anywhere on screen),
+- Added support for layer (choose what 'Strata' you want to use),
+- Added support for Vertex colors (override colors of textures),
+- Added support for Viewport function (resize the game windows size).
+
+V2.8.0- 5 August 2009
+- Reworked option menu with custom fonts to display well,
+- Added support for BLP files.
+
+V2.7.3- 7 March 2009
+- Added German localisation, thx to Kuhglöckchen a.k.a. Blocki
+- Added Russian localisation, kiss to troyen
+
+v2.7.2- 7 February 2009
+- Corrected "Close" button bug 
+- removed dutch locals, cause there is no dutch client .. oups sorry for the mistake ;=)
+
+v2.7.1- 2 February 2009
+- Added zhTW and zhCN localisation, thanks to wowui.cn
+- Added Dutch localisation, thanks to Menjes
+
+v2.7.0- 31 January 2009
+- Added a grid function, so you can set interface easier
+
+v2.6.0- 15 January 2009
+- Added Width parameter, so you can adapt any skin to your resolution, if default value dont look well (depend on skin and scale used)
+
+v2.5.1 - 14 January 2009
+- Fixed the bug with blizzard UI calendar
+
+v2.5.0 - 8 december 2008
+- added support for localisation
+- added french localisation
+- added more slash command : /btex menu, /btex reset, /btex remove, /btex custom
+
+v2.4.3 - 8 december 2008
+- fixed error => "Message: ..\AddOns\Btex\Btex.lua line 583: attempt to index global 'a' (a boolean value)"
+
+v2.4.2 - 6 december 2008
+- fixed text placement in frame, with normal game font
+- fixed a bug with dropdown menu
+
+v2.4.1 - 4 december 2008
+- fixed issue on "custom texture pack frame"
+
+v2.4 - 4 december 2008
+- corrected minor bug in slash command
+- added a new skin : White Dragon
+
+v2.3.1 - 20 November 2008
+- removed "panel button" coming from dev version
+
+v2.3 - 19 November 2008
+- added support for multiple character
+- corrected "/bt" already used by bartender to "/bx", you can use "/btex" too
+- corrected a bug form dropdownUI Menu
+- added a new skin : Wall
+
+v2.2 - 7 November 2008
+- added support for transparency for normals and customs skins,
+- added "Reset to default"button,
+- added 2 new skins : Simple Black, Fade Black.
+
+v2.1 - 5 November 2008
+- added support for texture stretch. you can now set Height form 1 to 1200,
+- added "no texture" in the dropdown menu,
+- added "Load custom skin", where you can put your own pack of skin directly from game, without modifying the LUA code.
+
+v2.0 - 3 November 2008 :
+- reworked all the code,
+- removed ACE 2.0 support, only WoWAPI hard coded (no libs are needed now),
+- added menu option for skin choosing and other settings,
+- added new skins,
+- full LUA frame coded.
+
+V1.0 - 26 November 2007:
+- Initial release. 
+
+For full version history, please see here: http://www.wowinterface.com/downloads/info7906.html
