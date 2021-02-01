@@ -1,0 +1,14 @@
+## Interface: 90002
+## Title: BTEX 9.0 by |cFFFF8080 Twistedfury, originally from Tiggy|r
+## Title-frFR: BTEX 9.0 par |cFFFF8080 Twistedfury originally from Tiggy|r
+## Title: BTEX |cFFFF8080 v.9.0 |r
+## Version: 9.0
+## Author: Tiggy, Twistedfury
+## Fanupdate: Zetaprime82
+## Notes: A lightweight addon that provide a customisable background texture at the bottom of the screen
+## DefaultState: Enabled
+## X-Category: Interface Enhancements
+## X-Website: http://wow.curseforge.com/addons/btex/
+## SavedVariablesPerCharacter:TEX_CHOICE,TEX_HEIGHT,UI_WIDTH,TEX_ALPHA,TEX_WIDTH,TEX_X,TEX_Y,TEX_STRATA,TEX_VERTEX_R,TEX_VERTEX_G,TEX_VERTEX_B,TEX_VIEWPORT_BL,TEX_VIEWPORT_BR,TEX_VIEWPORT_TL,TEX_VIEWPORT_TR,TEX_CHAT
+Localisation.lua
+Btex.lua
