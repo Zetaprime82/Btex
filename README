@@ -1,5 +1,5 @@
 ********************
-BTex version 9.1
+BTex version 9.2
 ********************
 
 A development of Tiggy's excellent addon
@@ -52,13 +52,13 @@ Skins by "RosyBijou" : http://www.wowinterface.com/downloads/info14777-BTEX--Ice
 
 Last Update :
 -------------
+Retail:
+v9.2  29 June 2021
+- TOC bump for patch 9.1
+
 BCC:
 v2.0 21 May 2021
 - BCC release
-
-Retail:
-v9.1  10 March 2021
-- TOC bump for patch 9.0.5
 
 Website :
 ---------
@@ -111,3 +111,4 @@ How do i load custom skins? Copy TGA or BLP files to /interface/btex/skins/ dire
 Example:  for 'blabla' skin, you have 4 tga named blabla-1.tga, blabla-2.tga. Write 'blabla' in the custom name.
 Do the skin support transparency ? yes. Via images files and via WOW API.
 Can i use BLP file? Yes. use custom load skin, and do like with any other tga file.
+
