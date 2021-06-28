@@ -1,5 +1,5 @@
 ********************
-BTex version 9.1
+BTex version 9.2
 ********************
 
 A development of Tiggy's excellent addon
@@ -52,13 +52,13 @@ Skins by "RosyBijou" : http://www.wowinterface.com/downloads/info14777-BTEX--Ice
 
 Last Update :
 -------------
+Retail:
+v9.2  29 June 2021
+- TOC bump for patch 9.1
+
 BCC:
 v2.0 21 May 2021
 - BCC release
-
-Retail:
-v9.1  10 March 2021
-- TOC bump for patch 9.0.5
 
 Website :
 ---------

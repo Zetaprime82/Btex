@@ -1,6 +1,9 @@
 *********************
 * Version History : *
 *********************
+v9.2  29 June 2021
+ - TOC bump for patch 9.1 (thanks to Zetaprime82)
+
 v9.1  10 March 2021
  - TOC bump for patch 9.0.5 (thanks to Zetaprime82)
 

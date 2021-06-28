@@ -1,8 +1,8 @@
-## Interface: 90005
-## Title: BTEX 9.1 by |cFFFF8080 Twistedfury, originally from Tiggy|r
-## Title-frFR: BTEX 9.1 par |cFFFF8080 Twistedfury originally from Tiggy|r
-## Title: BTEX |cFFFF8080 v.9.1 |r
-## Version: 9.1
+## Interface: 90100
+## Title: BTEX 9.2 by |cFFFF8080 Twistedfury, originally from Tiggy|r
+## Title-frFR: BTEX 9.2 par |cFFFF8080 Twistedfury originally from Tiggy|r
+## Title: BTEX |cFFFF8080 v.9.2 |r
+## Version: 9.2
 ## Author: Tiggy, Twistedfury
 ## Fanupdate: Zetaprime82
 ## Notes: A lightweight addon that provide a customisable background texture at the bottom of the screen
