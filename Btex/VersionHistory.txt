@@ -2,10 +2,13 @@
 * Version History : *
 *********************
 v9.2  29 June 2021
- - TOC bump for patch 9.1 (thanks to Zetaprime82)
+ - TOC bump for patch 9.1
+
+v2.0 21 May 2021 
+ - BCC release
 
 v9.1  10 March 2021
- - TOC bump for patch 9.0.5 (thanks to Zetaprime82)
+ - TOC bump for patch 9.0.5
 
 v9.0  31 January 2021
  - Updated for Shadowlands (thanks to Zetaprime82)
@@ -86,7 +89,7 @@ V2.8.0- 5 August 2009
 - Added support for BLP files.
 
 V2.7.3- 7 March 2009
-- Added German localisation, thx to Kuhglöckchen a.k.a. Blocki
+- Added German localisation, thx to KuhglÃ¶ckchen a.k.a. Blocki
 - Added Russian localisation, kiss to troyen
 
 v2.7.2- 7 February 2009
